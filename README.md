@@ -6,11 +6,11 @@
 3. <b>Different trackers analysis:-</b><br/>
 
 <i>Trackers analysed does include the following list:</i><br/>
-a.)SiamBAN- Siamese Box Adaptive Network<br/>
-b.)Global Tracking transformers<br/>
-c.)SoRT + YOLOv7<br/>
-d.)StrongSort + YOLOv7<br/>
-e.)CSRT<br/>
+a.)<b>SiamBAN- Siamese Box Adaptive Network</b><br/>
+b.)<b>Global Tracking transformers</b><br/>
+c.)<b>SoRT + YOLOv7</b><br/>
+d.)<b>StrongSort + YOLOv7</b><br/>
+e.)<b>CSRT</b><br/>
 <br/>
 <i>Here are some visualizations:-</i><br/>
 <br/>

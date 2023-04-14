@@ -1,6 +1,6 @@
 # Sytnthetic_data_generation and visual tracking analysis of 5 trackers:-
 
-<u>This repo includes the following:</u><br/>
+<i>This repo includes the following:</i><br/>
 1. Depth Estimation via Monodepth<br/>
 2. Synthetic haze creation via depth information<br/>
 3. Different trackers analysis:-<br/>

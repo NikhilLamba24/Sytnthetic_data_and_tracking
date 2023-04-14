@@ -1,18 +1,18 @@
 # Sytnthetic_data_generation and visual tracking analysis of 5 trackers:-
 
 <i>This repo includes the following:</i><br/>
-1. Depth Estimation via Monodepth<br/>
-2. Synthetic haze creation via depth information<br/>
-3. Different trackers analysis:-<br/>
+1. <b>Depth Estimation via Monodepth</b><br/>
+2. <b>Synthetic haze creation via depth information</b><br/>
+3. <b>Different trackers analysis:-</b><br/>
 
-<u>Trackers analysed does include the following list:</u><br/>
+<i>Trackers analysed does include the following list:</i><br/>
 a.)SiamBAN- Siamese Box Adaptive Network<br/>
 b.)Global Tracking transformers<br/>
 c.)SoRT + YOLOv7<br/>
 d.)StrongSort + YOLOv7<br/>
 e.)CSRT<br/>
 <br/>
-<u>Here are some visualizations:-</u><br/>
+<i>Here are some visualizations:-</i><br/>
 <br/>
 <b>StrongSORT + YOLOv7 tracking:</b><br/>
 

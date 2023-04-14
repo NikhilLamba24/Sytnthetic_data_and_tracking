@@ -14,7 +14,7 @@ e.)CSRT<br/>
 <br/>
 Here are some visualizations:-<br/>
 <br/>
-StrongSORT + YOLOv7 tracking:<br/>
+<b>StrongSORT + YOLOv7 tracking:</b><br/>
 
 
 <br/>

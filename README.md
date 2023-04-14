@@ -12,7 +12,8 @@ c.)SoRT + YOLOv7<br/>
 d.)StrongSort + YOLOv7<br/>
 e.)CSRT<br/>
 <br/>
-Here are some couple of visualizations:-<br/>
+Here are some visualizations:-<br/>
+<br/>
 StrongSORT + YOLOv7 tracking:<br/>
 
 

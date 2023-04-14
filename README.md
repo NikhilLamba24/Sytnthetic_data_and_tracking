@@ -27,13 +27,13 @@ https://user-images.githubusercontent.com/46343406/232041989-d14c50aa-5b42-43ef-
 
 
 <br/>
-SORT + YOLOv7 tracking:<br/>
+<b>SORT + YOLOv7 tracking:</b><br/>
 
 https://user-images.githubusercontent.com/46343406/232040961-4e780d4a-e801-4938-94ba-2e194088f0b6.mp4
 
 <br/>
 
-CSRT tracking(here tracking error is encountered for without haze tracking in case of classical OpenCv based tracker i.e. CSRT, that is overcame by the above techniques)<br/>
+<b>CSRT tracking(here tracking error is encountered for without haze tracking in case of classical OpenCv based tracker i.e. CSRT, that is overcame by the above techniques)</b><br/>
 
 
 https://user-images.githubusercontent.com/46343406/232041077-83fe6906-b076-459f-aed5-03bc9a031405.mp4

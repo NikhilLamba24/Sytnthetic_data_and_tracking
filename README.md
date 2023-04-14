@@ -15,9 +15,12 @@ e.)CSRT<br/>
 Here are some couple of visualizations:-<br/>
 StrongSORT + YOLOv7 tracking:<br/>
 
-https://user-images.githubusercontent.com/46343406/232040536-b7b217c1-8689-4368-8ccd-6becebed6611.mp4
 
 <br/>
+
+https://user-images.githubusercontent.com/46343406/232041534-1a97292e-b128-44d5-aadf-50ac38b735b5.mp4
+
+
 
 SORT + YOLOv7 tracking:<br/>
 
@@ -25,7 +28,7 @@ https://user-images.githubusercontent.com/46343406/232040961-4e780d4a-e801-4938-
 
 <br/>
 
-CSRT tracking:<br/>
+CSRT tracking(here tracking error is encountered for without haze tracking in case of classical OpenCv based tracker i.e. CSRT, that is overcame by the above techniques)<br/>
 
 
 https://user-images.githubusercontent.com/46343406/232041077-83fe6906-b076-459f-aed5-03bc9a031405.mp4

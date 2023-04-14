@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/46343406/232040961-4e780d4a-e801-4938-
 
 <br/>
 
-<b>CSRT tracking(here tracking error is encountered for without haze tracking in case of classical OpenCv based tracker i.e. CSRT, that is overcame by the above techniques)</b><br/>
+<b>CSRT tracking</b><br/>(here tracking error is encountered for without haze tracking in case of classical OpenCv based tracker i.e. CSRT, that is overcame by the above techniques)<br/>
 
 
 https://user-images.githubusercontent.com/46343406/232041077-83fe6906-b076-459f-aed5-03bc9a031405.mp4

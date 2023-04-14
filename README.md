@@ -18,10 +18,14 @@ StrongSORT + YOLOv7 tracking:<br/>
 
 <br/>
 
-https://user-images.githubusercontent.com/46343406/232041534-1a97292e-b128-44d5-aadf-50ac38b735b5.mp4
+https://user-images.githubusercontent.com/46343406/232041989-d14c50aa-5b42-43ef-8365-512ea299a671.mov
 
 
 
+
+
+
+<br/>
 SORT + YOLOv7 tracking:<br/>
 
 https://user-images.githubusercontent.com/46343406/232040961-4e780d4a-e801-4938-94ba-2e194088f0b6.mp4
